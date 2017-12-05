@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/415ec080/heroku.git"
+  },
+  "author": "rao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/415ec080/heroku/issues"
+  },
+  "homepage": "https://github.com/415ec080/heroku#readme"
+}
